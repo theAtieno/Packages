@@ -2,20 +2,20 @@
 This package provides basic arithmetic operations along with Unit Teststo ensure correctness.  
 It is designed as a simple learning project for understanding **Python packages** and unit test development
 
-- **Addition**: Adds two numbers  
-- **Subtraction**: Subtracts one number from another  
-- **Division**: Divides one number by another
-- **Unit tests**: Ensures all arithmetic functions work correctly  
+- Addition
+- Subtraction
+- Division 
+- Unit tests
   
-###Addition
-- Has function that adds the digits entered
+### Addition
+- Adds two numbers  
 
-###Subtraction
-- Has function that subtracts the digits entered
+### Subtraction
+- Subtracts one number from another  
 
-###Division
-- Has function that divides the digits entered
+### Division
+- Divides one number by another
 
-##Unit tests
-- 
+### Unit tests
+- Ensures all arithmetic functions work correctly  
 
